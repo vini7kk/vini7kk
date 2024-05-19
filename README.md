@@ -1,9 +1,9 @@
 <h1> Olá, Sou o Vinicius Dias! </h1>
-  <h3>Olá, Sou o Vinicius, tenho 17 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
+  <h3>Olá, Meu nome é Vinicius, tenho 17 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
   
 - 🔭 Atualmente trabalho com Desenvolvimento Front-End
 - 🌱 Atualmente estou estudando Python...
-- 😄 Apelido: Pode me chamar de Vini!
+- 😄 Apelido: Pode me chamar de Vini :)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
