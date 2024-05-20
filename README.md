@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontAlignY=14"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlignY=14"/>
 
 <h1> Olá, Sou o Vinicius Dias! </h1>
   <h3>Olá, Meu nome é Vinicius, tenho 17 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
@@ -30,4 +30,4 @@
 </picture>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=false&section=footer"/>
