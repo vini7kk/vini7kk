@@ -2,9 +2,10 @@
   <h3>Olá, Meu nome é Vinicius, tenho 17 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
   
 - 🔭 Atualmente trabalho com Desenvolvimento Front-End
-- 🌱 Atualmente estou estudando Python...
+- 🌱 Atualmente estou estudando Python e JavaScript...
 - 😄 Pode me chamar de Vini!
   
+<h3>Tenho conhecimento em:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
