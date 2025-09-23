@@ -2,15 +2,16 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=159A9C&fontAlignY=32&reversal=false&fontAlign=50&animation=twinkling&fontSize=40&textBg=false&section=header&fontColor=DCEDF0"/> 
 <header/>
 
-<body>
- <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
- - 🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr. 
+<body> 
+  <div>
+   <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
+   - 🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr. 
  
- - 🌱 Atualmente estou estudando Python...
+   - 🌱 Atualmente estou estudando Python...
  
- - 😄 Pode me chamar de Vini!
- <div>
-  <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" alt="personagem" height="100" style="float: right; margin-right: 10px;">
+   - 😄 Pode me chamar de Vini!
+
+   <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" alt="personagem" height="100" style="align: right; margin-right: 10px;">
  </div>
  
  <h3>Tenho conhecimento em:</h3>
