@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=159A9C&fontAlignY=32&reversal=false&fontAlign=50&animation=twinkling&fontSize=40&textBg=false&section=header&fontColor=DCEDF0"/>
+< <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=159A9C&fontAlignY=32&reversal=false&fontAlign=50&animation=twinkling&fontSize=40&textBg=false&section=header&fontColor=DCEDF0"/>/>Header
 
 
 <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
@@ -9,9 +9,6 @@
 - 🌱 Atualmente estou estudando Python...
 
 - 😄 Pode me chamar de Vini!
-
-
-<h4> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</h4> <!-espaço->
 
 <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" alt="personagem" height="100" style="float: right; margin-right: 10px;">
 <h3>Tenho conhecimento em:</h3>
