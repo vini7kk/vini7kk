@@ -3,22 +3,24 @@
 <header/>
 
 <body> 
- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Texto à esquerda -->
-  <div>
-    <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
-    <ul>
-      <li>🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr.</li>
-      <li>🌱 Atualmente estou estudando Python...</li>
-      <li>😄 Pode me chamar de Vini!</li>
-    </ul>
-  </div>
+<table width="100%">
+  <tr>
+    <!-- Texto à esquerda -->
+    <td>
+      <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
+      <ul>
+        <li>🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr.</li>
+        <li>🌱 Atualmente estou estudando Python...</li>
+        <li>😄 Pode me chamar de Vini!</li>
+      </ul>
+    </td>
 
-  <!-- GIF à direita -->
-  <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" height="100" >
-  
-</div>
-
+    <!-- GIF à direita -->
+  <td align="right">
+  <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" height="100">
+    </td>
+  </tr>
+</table>
 <h3>Tenho conhecimento em:</h3>
  <div style="display: inline_block"><br>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
