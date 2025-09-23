@@ -7,14 +7,14 @@
 - 🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr. 
 
 - 🌱 Atualmente estou estudando Python...
-<img align="right" alt="personagem" height="100" src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif">
+
 - 😄 Pode me chamar de Vini!
 
 
 <h4> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</h4> <!-espaço->
 
 <h3>Tenho conhecimento em:</h3>
-
+![personagem](https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif)
 <div style="display: inline_block"><br>
 
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
