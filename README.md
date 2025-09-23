@@ -1,4 +1,4 @@
-< <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=159A9C&fontAlignY=32&reversal=false&fontAlign=50&animation=twinkling&fontSize=40&textBg=false&section=header&fontColor=DCEDF0"/>/>Header
+<header> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=159A9C&fontAlignY=32&reversal=false&fontAlign=50&animation=twinkling&fontSize=40&textBg=false&section=header&fontColor=DCEDF0"/> <header/>
 
 
 <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
