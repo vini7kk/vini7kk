@@ -4,20 +4,13 @@
 
 <body> 
 <div width="100%">
-  <tr>
-    <!-- Texto à esquerda -->
-    <td>
-      <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
-      <ul>
-        <li>🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr.</li>
-        <li>🌱 Atualmente estou estudando Python...</li>
-        <li>😄 Pode me chamar de Vini!</li>
-      </ul>
-    </td>
-  <td align="right">
-  <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" height="100">
-    </td>
-  </tr>
+  <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
+  <ul>
+  <li>🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr.</li>
+  <li>🌱 Atualmente estou estudando Python...</li>
+  <li>😄 Pode me chamar de Vini!</li>
+  </ul>
+  
 </div>
   
 <h3>Tenho conhecimento em:</h3>
