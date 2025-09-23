@@ -3,7 +3,7 @@
 
 <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
  <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p> 
-<img align="right" alt="personagem" height="200"  src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif">
+<img align="right" alt="personagem" height="100"  src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif">
 - 🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr. 
 
 - 🌱 Atualmente estou estudando Python...
