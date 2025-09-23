@@ -11,12 +11,8 @@
  
    - 😄 Pode me chamar de Vini!
 
-   <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" alt="personagem" height="100" style="align: right; margin-right: 10px;">
+   <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" height="100" style="align: right; margin-right: 1px;">
  </div>
-  <div>
-    <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" alt="personagem" height="100">
-  </div>
-</div>
  <h3>Tenho conhecimento em:</h3>
  <div style="display: inline_block"><br>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
