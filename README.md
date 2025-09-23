@@ -6,7 +6,7 @@
 
 <img align="right" alt="personagem" height="200"  src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif">
  
-- 🔭 Atualmente estou em busca de trabalhar com Desenvolvimento Front-End
+- 🔭 Atualmente trabalho como Suporte Tecnico Jr, na empresa Valenet.
 
 - 🌱 Atualmente estou estudando Python...
   
@@ -21,7 +21,7 @@
 
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
  <h3>Estou estudando:</h3>
