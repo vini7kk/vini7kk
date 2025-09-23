@@ -3,7 +3,7 @@
 <header/>
 
 <body> 
-<table width="100%">
+<div width="100%">
   <tr>
     <!-- Texto à esquerda -->
     <td>
@@ -14,13 +14,12 @@
         <li>😄 Pode me chamar de Vini!</li>
       </ul>
     </td>
-
-    <!-- GIF à direita -->
   <td align="right">
   <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" height="100">
     </td>
   </tr>
-</table>
+</div>
+  
 <h3>Tenho conhecimento em:</h3>
  <div style="display: inline_block"><br>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
