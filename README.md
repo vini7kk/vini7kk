@@ -3,16 +3,21 @@
 <header/>
 
 <body> 
+ <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- Texto à esquerda -->
   <div>
-   <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
-   - 🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr. 
- 
-   - 🌱 Atualmente estou estudando Python...
- 
-   - 😄 Pode me chamar de Vini!
- </div>
-<div style="display: flex "; align-items: rigth;">
-  <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" height="100">
+    <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
+    <ul>
+      <li>🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr.</li>
+      <li>🌱 Atualmente estou estudando Python...</li>
+      <li>😄 Pode me chamar de Vini!</li>
+    </ul>
+  </div>
+
+  <!-- GIF à direita -->
+  <div>
+    <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" height="100">
+  </div>
 </div>
 <h3>Tenho conhecimento em:</h3>
  <div style="display: inline_block"><br>
