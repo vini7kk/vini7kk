@@ -11,7 +11,7 @@
  
    - 😄 Pode me chamar de Vini!
  </div>
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: inline_block"; justify-content: space-between; align-items: center;">
   <h3>Tenho conhecimento em:</h3>
   <img src="https://media.tenor.com/8ND8TbjZqh0AAAAj/error.gif" height="100">
 </div>
