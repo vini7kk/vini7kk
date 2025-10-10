@@ -7,8 +7,9 @@
   <h3>Olá, Meu nome é Vinicius, tenho 19 anos, e atualmente estou começando uma jornada no mundo da programação.</h3>
   <ul>
   <li>🔭 Atualmente estou em busca da minha primeira vaga como desenvolvedor full stack jr.</li>
-  <li>🌱 Atualmente estou estudando Python...</li>
-  <li>😄 Pode me chamar de Vini!</li>
+  <li>🌱 Atualmente estou estudando Python e JavaScript...</li>
+  <li>😄 cursando Desenvolvimento Full Stack pelo Projeto Desenvole | UFMG </li>
+  <li>🎓 Estudante de Engenharia de Software </li>
   </ul>
   
 </div>
