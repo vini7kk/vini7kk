@@ -15,15 +15,13 @@
 </div>
   
 <h3>Tenho conhecimento em:</h3>
- <div style="display: inline_block"><br>
+
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql)](https://skillicons.dev)
- </div>
+
     
-  <h3>Estou estudando:</h3>
-   
- <div style="display: inline_block"><br>
+  <h3>Estou estudando:</h3.
   [![My Skills](https://skillicons.dev/icons?i=js,python,bootstrap,django,angular)](https://skillicons.dev)
- </div>
+
 </body>
 
 
