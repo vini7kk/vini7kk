@@ -16,17 +16,13 @@
   
 <h3>Tenho conhecimento em:</h3>
  <div style="display: inline_block"><br>
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql)](https://skillicons.dev)
  </div>
     
   <h3>Estou estudando:</h3>
- 
+   
  <div style="display: inline_block"><br>
- <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  [![My Skills](https://skillicons.dev/icons?i=js,python,bootstrap,django,angular)](https://skillicons.dev)
  </div>
 </body>
 
