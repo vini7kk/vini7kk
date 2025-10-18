@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
 
 <h3>Estou estudando:</h3.
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </body>
 
 
