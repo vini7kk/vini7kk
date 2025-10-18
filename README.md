@@ -24,8 +24,10 @@
   Estou estudando:
 </h3.
 
-                      
-[![My Skills](https://skillicons.dev/icons?i=js,py,react,bootsrap,django)](https://skillicons.dev)
+ <div >
+   [![My Skills](https://skillicons.dev/icons?i=js,py,react,bootstrap,django)](https://skillicons.dev)
+ </div>                     
+
 
 </body>
 
