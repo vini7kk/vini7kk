@@ -22,10 +22,12 @@
 
 <h3 style="display: block;">
   Estou estudando:
-</h3.
+</h>
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,react,bootstrap,django)](https://skillicons.dev)
                 
+
+
 
 
 </body>
