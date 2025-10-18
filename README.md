@@ -14,15 +14,18 @@
   
 </div>
   
-<h3>Tenho conhecimento em:</h3>
+<h3>
+  Tenho conhecimento em:
+</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
 
-<h3>Estou estudando:</h3.
+<h3>
+  Estou estudando:
+</h3.
 
                       
-[![My Skills](https://skillicons.dev/icons?i=js,python,mysql,django,bootstrap)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,py,react,bootsrap,django)](https://skillicons.dev)
 
 </body>
 
