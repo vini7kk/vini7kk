@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
 
-<h3 style="display: block;">
+<h3 style="display: block; padding: 0.2rem ;">
   Estou estudando:
 </h>
 
