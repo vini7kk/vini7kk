@@ -20,13 +20,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
 
-<h3>
+<h3 style="display: block;">
   Estou estudando:
 </h3.
 
- <div >
-   [![My Skills](https://skillicons.dev/icons?i=js,py,react,bootstrap,django)](https://skillicons.dev)
- </div>                     
+[![My Skills](https://skillicons.dev/icons?i=js,py,react,bootstrap,django)](https://skillicons.dev)
+                
 
 
 </body>
