@@ -17,13 +17,13 @@
 <h3>
   Tenho conhecimento em:
 </h3>
-
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
 
 <h3 style="display: block; padding: 0.2rem ;">
   Estou estudando:
 </h>
-
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,py,react,bootstrap,django)](https://skillicons.dev)
                 
 
